@@ -2,7 +2,7 @@
 
 Official repository of _PeakNetFP: Peak-based Neural Audio Fingerprinting Robust to Time Stretching_ by Guillem Cortès-Sebastià, Benjamin Martin, Emilio Molina, Xavier Serra, and Romain Hennequin. To be presented at ISMIR 2025. Preprint is available in arXiv.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.21086-b31b1b.svg)](https://doi.org/10.48550/arXiv.2506.21086)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17811353.svg)](https://doi.org/10.5281/zenodo.17811353)
  
 
 <p align="left">
@@ -174,16 +174,24 @@ This research is part of resCUE – Smart system for automatic usage reporting o
 
 ## Citation
 
-_To be updated once the proceedings are published_
-
-> G. Cortès-Sebastià, B. Martin, E. Molina, X. Serra, R. Hennequin, “PeakNetFP: Peak-based Neural Audio Fingerprinting Robust to Extreme Time Stretching”, in Proc. of the 26th Int. Society for Music Information Retrieval Conf., Daejeon, South Korea, 2025.
+> G. Cortès-Sebastià, B. Martin, E. Molina, X. Serra, R. Hennequin, “PeakNetFP: Peak-based Neural Audio Fingerprinting Robust to Extreme Time Stretching”, in Proc. of the 26th Int. Society for Music Information Retrieval Conf., ISMIR 2025, Daejeon, South Korea, September 21-25, 2025.
 
 ```
 @article{cortes2025peaknetfp,
-  title={PeakNetFP: Peak-based Neural Audio Fingerprinting Robust to Extreme Time Stretching},
-  author={Cort{\`e}s-Sebasti{\`a}, Guillem and Martin, Benjamin and Molina, Emilio and Serra, Xavier and Hennequin, Romain},
-  journal={arXiv preprint arXiv:2506.21086},
-  year={2025},
-  note={Accepted at ISMIR 2025}
+  title        = {PeakNetFP: Peak-Based Neural Audio Fingerprinting Robust to Extreme
+                  Time Stretching},
+  author       = {Guillem Cort{\`{e}}s{-}Sebasti{\`{a}} and
+                  Benjamin Martin and
+                  Emilio Molina and
+                  Xavier Serra and
+                  Romain Hennequin},
+  booktitle    = {Proceedings of the 26th International Society for Music Information
+                  Retrieval Conference, {ISMIR} 2025, Daejeon, South Korea, September
+                  21-25, 2025},
+  pages        = {206--214},
+  year         = {2025},
+  url          = {https://doi.org/10.5281/zenodo.17811353},
+  doi          = {10.5281/ZENODO.17811353},
+  timestamp    = {Mon, 01 Dec 2025 23:06:58 +0100},
 }
 ```
